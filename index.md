@@ -6,7 +6,6 @@ This is a portfolio for my class work and any additional stuff such as programs 
 ## Contact Me
 Phone: 210-555-5555
 
-
 Email: student@alamo.edu
 
 You can use the [editor on GitHub](https://github.com/MetalSteakJacob/MetalSteakJacob.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
