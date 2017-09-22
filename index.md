@@ -8,6 +8,9 @@ Phone: 210-555-5555
 
 Email: student@alamo.edu
 
+
+## Default stuff left for reference
+
 You can use the [editor on GitHub](https://github.com/MetalSteakJacob/MetalSteakJacob.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
