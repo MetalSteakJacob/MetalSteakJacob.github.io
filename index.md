@@ -8,8 +8,12 @@ Phone: 210-555-5555
 
 Email: student@alamo.edu
 
+###Class work
+--
+*Game Critique 9/21*
 
-## Default stuff left for reference
+
+### Default stuff left for reference
 
 You can use the [editor on GitHub](https://github.com/MetalSteakJacob/MetalSteakJacob.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
