@@ -8,7 +8,7 @@ Phone: 210-555-5555
 
 Email: student@alamo.edu
 
-### Class work
+## Class work
 
 ### *Game Critique 9/21*
 
