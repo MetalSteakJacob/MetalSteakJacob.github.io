@@ -3,7 +3,7 @@
 ### About
 This is a portfolio for my class work and any additional stuff such as programs or anything to do with coding, the class, or for myself.
 
-## Contact Me
+### Contact Me
 Phone: 210-555-5555
 
 Email: student@alamo.edu
