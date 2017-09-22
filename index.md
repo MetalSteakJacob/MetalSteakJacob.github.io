@@ -10,7 +10,9 @@ Email: student@alamo.edu
 
 ### Class work
 --
-*Game Critique 9/21*
+###*Game Critique 9/21*
+--
+
 Space Fighter is an online, PC game where you play as a space ship orbiting around a moon or asteroid from what it looks like. You fly around and shoot down other players with lazer bullets or missiles. You can also choose different ships.
 
 Almost everything is wrong with the game, it may just be my computer, but I don't find it to be playable. I had to lower the quality of the graphics and sounds, and turn off some special effects in order to see where i was going.
