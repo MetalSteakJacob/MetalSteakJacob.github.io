@@ -25,6 +25,9 @@ There's a special missile you use, and when you launch it, you play as it to gui
 
 Also I tried playing as the other types of ships. They all look different, but when you click on one, you're still left with the default ship.
 
+### *Game Critique 9/26*
+
+### *Heroku*
 
 ### Default stuff left for reference
 
