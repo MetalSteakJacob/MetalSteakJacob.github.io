@@ -27,6 +27,8 @@ Also I tried playing as the other types of ships. They all look different, but w
 
 ### *Game Critique 9/26*
 
+"You Doesn't Exist" I found this title to be really odd for a medieval rpg game. At first it reminded me of pokemon. You wake up from a bed, go downstairs to meet your mom, and go out to the world. But when it came to the fighting, it took me a while to understand it, and I had a hard time reading everything because the battle menu was on the bottom of the screen, while the narration was on the top. I got the hang of it later and actually enjoyed playing it.
+
 ### *Heroku*
 
 From what I understand, Heroku is made for CI, which stands for Continuous Integration. What I found on "codeship.com" is that Continuous Integration is the practice of intergrating changes from different developers in the team into a mainline as early as possible, in best cases several times a day. This makes sure the code individual developers work on doesn't divert too much. When you combine the process with automated testing, continuous integration can enable your code to be dependable.
