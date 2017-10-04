@@ -1,3 +1,5 @@
+[Back to Portfolio](portfolio.md)
+
 ### *Game Critique 9/26*
 
 "You Doesn't Exist" I found this title to be really odd for a medieval rpg game. At first it reminded me of pokemon. You wake up from a bed, go downstairs to meet your mom, and go out to the world. But when it came to the fighting, it took me a while to understand it, and I had a hard time reading everything because the battle menu was on the bottom of the screen, while the narration was on the top. I got the hang of it later and actually enjoyed playing it.
