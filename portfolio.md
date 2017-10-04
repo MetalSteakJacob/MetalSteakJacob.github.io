@@ -1,6 +1,6 @@
 # portfolio classwork
 
-(Game Critique One)[critique_one]
+(Game Critique One) [critique_one]
 
 ---
 
