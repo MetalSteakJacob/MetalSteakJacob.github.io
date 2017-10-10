@@ -6,6 +6,8 @@
 
 [Game Critique Three](critique_three.md)
 
+[Game Critique Four](critique_four.md)
+
 
 ---
 
