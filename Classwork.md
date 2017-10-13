@@ -1,6 +1,7 @@
 # Testing Plan
 
 ## 1. General Information
+
 ### Summary
 - Summarize the project and the functions of the software to be tested
 ### Environment/User Community
