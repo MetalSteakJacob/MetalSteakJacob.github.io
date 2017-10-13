@@ -34,11 +34,19 @@ playtesting
 ## 3. Specifications and Evaluations
 ### Requirement Specifications
 - Business Rules/Functions
+
 List any business requirements (list)
+
 - Software/Game Functions
+
 List any software requirements (list)
+
 - Test/Function Relationships
+
 Match individual tests or test suites to requirements (this is usually a table)
+
 Beginning stages of developing your test suites
+
 - Test Progression
+
 Describe how progression is made from one test to another
