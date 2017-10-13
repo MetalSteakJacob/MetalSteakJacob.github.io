@@ -1,5 +1,7 @@
 # portfolio classwork
 
+[Class Work](Classwork.md)
+
 [Game Critique One](critique_one.md)
 
 [Game Critique Two](critique_two.md)
