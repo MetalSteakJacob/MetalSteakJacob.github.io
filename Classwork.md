@@ -2,7 +2,7 @@
 
 ## 1. General Information
 
-### Summary
+###  Summary
 - Summarize the project and the functions of the software to be tested
 ### Environment/User Community
 - Identify user community and where testing will be performed
