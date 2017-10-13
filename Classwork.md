@@ -22,5 +22,12 @@ Who is on the team and what is their role/assignment
 Testing Locations, events, test phases and dates of testing
 ### Budgets
 Funds allocated to testing by task
-
+### Testing
+- Requirements
+Resource requirements, equipment, software/hardware, tester with special skill set
+- Testing Materials/Test Tools
+Documentation you will use or produce or testing tools used
+- Test Training
+Personnel training, types of training/training staff- could include acceptance testing or 
+playtesting
 ## 3. Specifications and Evaluations
