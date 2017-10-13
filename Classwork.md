@@ -14,5 +14,13 @@ Estimated number of defect or internal test acceptance criteria
 List any reference documents
 
 ## 2. Plan
+###Test Description
+Briefly describe what is being tested and any inputs needed for testing
+###Test Team
+Who is on the team and what is their role/assignment
+###Milestones
+Testing Locations, events, test phases and dates of testing
+###Budgets
+Funds allocated to testing by task
 
 ## 3. Specifications and Evaluations
