@@ -5,38 +5,38 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * 002
 * Test Case Name:
-  * #Number
+  * 02
 * Component: 
-  * Description
+  * Options
 * Test Case Designer:
-  * Name
+  * Jacob Hernandez
 * Creation Date:
-  * Date
+  * 10/17/2017
 * Modified By:
-  * Name
+  * Jacob Hernandez
 * Modified Date:
-  * Date
+  * 10/17/2017
 * Requirements Covered:
-  * Description
+  * Game start, new game, pause menu.
 * Test Description/Purpose:
-  * Description
+  * If variables change correctly when specific options change.
 * Pre-Test Conditions:
-  * Description
+  * Game start, new game made, first room start, pause menu, optons menu.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 | Brightness | Brightness level changes accordingly to value number given | |			
+| 2 | Camera Sensitivity | Camera Sensitivity changes accordingly to the value number given | |			
+| 3 | Master Volume | Changes the overall volume of entire game accordingly to the value number given | |			
+| 4 | Sound FX Volume | | |			
+| 5 | Voice Volume | | |			
+| 6 | Subtitles On/Off | | |			
+| 7 | English Language | | |			
+| 8 | Japanese Language | | |			
+| 9 | English Subtitles | | |			
+| 10 | Japanese Subtitles | | |			
 
 ## Overall Test Status:
 
