@@ -30,13 +30,13 @@
 | 1 | Brightness | Brightness level changes accordingly to value number given | |			
 | 2 | Camera Sensitivity | Camera Sensitivity changes accordingly to the value number given | |			
 | 3 | Master Volume | Changes the overall volume of entire game accordingly to the value number given | |			
-| 4 | Sound FX Volume | | |			
-| 5 | Voice Volume | | |			
-| 6 | Subtitles On/Off | | |			
-| 7 | English Language | | |			
-| 8 | Japanese Language | | |			
-| 9 | English Subtitles | | |			
-| 10 | Japanese Subtitles | | |			
+| 4 | Sound FX Volume | Changes the Sound FX volume accordingly to the value number given | |			
+| 5 | Voice Volume | Changes the voice volume accordingly to the value number given | |			
+| 6 | Subtitles On/Off | Toggles subtitles | |			
+| 7 | English Language | Plays english voice sound files only when English is on | |			
+| 8 | Japanese Language | Plays japanese voice sound files only when Japanese is on | |			
+| 9 | English Subtitles | Displays english subtitles only when subtitles are on | |			
+| 10 | Japanese Subtitles | Displays japanese subtitles only when subtitles are on | |			
 
 ## Overall Test Status:
 
