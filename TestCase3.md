@@ -5,34 +5,34 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * 003
 * Test Case Name:
-  * #Number
+  * 03
 * Component: 
-  * Description
+  * Save files
 * Test Case Designer:
-  * Name
+  * Jacob Hernandez
 * Creation Date:
-  * Date
+  * 10/19/2017
 * Modified By:
-  * Name
+  * Jacob Hernandez
 * Modified Date:
-  * Date
+  * 10/19/2017
 * Requirements Covered:
-  * Description
+  * game start, new game, first room start, pause.
 * Test Description/Purpose:
-  * Description
+  * Make sure files are saved and not corrupted.
 * Pre-Test Conditions:
-  * Description
+  * game start, new game, first room start, pause.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
+| 1 | New Game | Creates a temporary file | Check |			
+| 2 | Save | Saves the current temporary file and is now saved | Check |			
+| 3 | Load | Loads the chosen file | Check |			
+| 4 | Delete | Deletes the chosen file | check |			
+| 5 | Autosave | Automatically saves the current file after a given time | Check |			
+| 6 | Restart | Check if files are saved after turning off system | Check |			
 | 7 | | | |			
 | 8 | | | |			
 | 9 | | | |			
@@ -45,7 +45,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 10/19/2017 | Jacob Hernandez | True |			
+| 2 | 10/19/2017 | Jacob Hernandez | True |			
+| 3 | 10/19/2017 | Jacob Hernandez | True |			
 
