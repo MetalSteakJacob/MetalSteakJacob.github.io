@@ -45,7 +45,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 10/19/2017 | Jacob Hernandez | True |			
+| 2 | 10/19/2017 | Jacob Hernandez | True |			
+| 3 | 10/19/2017 | Jacob Hernandez | True |			
 
