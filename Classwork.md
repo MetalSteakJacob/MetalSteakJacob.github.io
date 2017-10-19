@@ -21,23 +21,23 @@ the ground) in order to clear the field.
 Simple, clean cut graphics and controls combine to give an easy to learn but engaging play 
 experience.
 ### Environment/User Community
-Traget Clusters, both C3 and C2. Because it is a PS2 game, it would have to be tested at special events or have beta testers come to the developers to test.
+Traget Clusters, both C3 and C2, so that we can reach a larger audience to spread more word to the H3 and H2 targets.
 ### Test Objectives
 Avatar, temperature, gravity, movment, jumping, slamming, avatar color changes, chains, font size, fields, field reset, blocks, objects, fire spread, burning out, polling blocks, melting, collapsing, gravilty for melting objects, pushing through melting objects, rewards, texts, quests, hub, paths, saving, high level states, start, settings, language select screen, language select, autosave settings, settings load, publisher logo, developer logo, title screen, autoload, start up, burn field list object, begin, pause, continue, quit, repeat field button, exit, field clear, last field?, next field, autosave, field list clear, audio, puzzles, credits, 
 ### Acceptance Criteria
-Estimated number of defect or internal test acceptance criteria
+Estimated number of defect or internal test acceptance criteria ???
 ### References
-List any reference documents
+List any reference documents ???
 
 ## 2. Plan
 ### Test Description
-Briefly describe what is being tested and any inputs needed for testing
+Movment and jumping controls, including rolling and camera view. Menues, such as pause, main, settings, and languages. Texts and credits, and overall structure of the game, such as the goals, progress, and rewards.
 ### Test Team
-Who is on the team and what is their role/assignment
+The developers will have a test team to find any bugs in the menu systems or in the avatar and it's movment.
 ### Milestones
-Testing Locations, events, test phases and dates of testing
+Testing will be with the developers, and beta testing will have to be done at conventions, or schedule specific dates for volunteers to come and test for us.
 ### Budgets
-Funds allocated to testing by task
+Funds allocated to testing by task ???
 ### Testing
 - Requirements
 Resource requirements, equipment, software/hardware, tester with special skill set
