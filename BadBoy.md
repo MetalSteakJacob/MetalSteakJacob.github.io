@@ -2,4 +2,4 @@
 
 # Bad Boy
 
-![Picture](/GAME MASTER/NVC/Badboy.png)
+![Picture](/GAME MASTER(G:)/NVC/Badboy.png)
