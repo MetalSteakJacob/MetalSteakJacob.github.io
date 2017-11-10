@@ -14,6 +14,8 @@
 
 [Game Critique Six](critique_six.md)
 
+[Game Critique Seven](critique_seven.md)
+
 
 ---
 
