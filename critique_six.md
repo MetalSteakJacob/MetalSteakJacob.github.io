@@ -1,13 +1,13 @@
 
 # Information
 ## Game Title
-Full title of the game.
+Thunder Moon Online
 ## Game Type
-The genre and play style of the game
+Survival, Action, Adventure, Sandbox
 ## Platform
-What systems do they play on besides the PC master race?
+Xbox 360
 ## Game Rating
-metacritic score
+
 ## Publisher
 who released this pile of code
 ## Developer
@@ -15,11 +15,14 @@ Who made this pile of code
 ## Publishing Date
 When did they make it?
 # Synopsis
-Game premise or short one to two sentence review
+The game is basically another rip off of Minecraft except this time you're on the moon. You play as a robot pilot, who crash landed on a moon and is forced to survive against weird alien crabs.
 
 # Game Play Summary
+I've actually played this game before a long time ago, and the goal is still unknown to me. As far as I know, all you do is go around mineing cubes of different materials and fight aliens. You can build structures and craft items, but can hardly understand what they are exactly some times because of the whole sifi theme.
 ## Playability
+It's really uncomfortable at first when it comes to the controls, even after getting used to them, you still feel awekward about them.
 ### Single/Multiplayer
+It's supposed to be multiplayer but I don't see any other players, so maybe it's for friends only.
 ### Controls
 
 # Bugs
