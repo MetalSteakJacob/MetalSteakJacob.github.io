@@ -2,11 +2,11 @@
 
 # Information
 ## Game Title
-Full title of the game.
+Castle Miner Z
 ## Game Type
-The genre and play style of the game
+First person shooter, survival, sandbox
 ## Platform
-What systems do they play on besides the PC master race?
+Xbox 360
 ## Game Rating
 metacritic score
 ## Publisher
