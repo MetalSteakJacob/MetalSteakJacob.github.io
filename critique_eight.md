@@ -8,13 +8,13 @@ First person shooter, survival, sandbox
 ## Platform
 Xbox 360
 ## Game Rating
-metacritic score
+7 out of 10
 ## Publisher
-who released this pile of code
+DigitalDNA
 ## Developer
-Who made this pile of code
+DigitalDNA
 ## Publishing Date
-When did they make it?
+November 9, 2011
 # Synopsis
 Game premise or short one to two sentence review
 
