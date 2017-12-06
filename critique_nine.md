@@ -1,17 +1,18 @@
 
 # Information
 ## Game Title
+Bit Heroes
 Full title of the game.
 ## Game Type
-The genre and play style of the game
+Turn based RPG
 ## Platform
-What systems do they play on besides the PC master race?
+Android
 ## Game Rating
-metacritic score
+4.7
 ## Publisher
-who released this pile of code
+Kongregate
 ## Developer
-Who made this pile of code
+Kongregate
 ## Publishing Date
 When did they make it?
 # Synopsis
